@@ -3,12 +3,12 @@ body {
 }
 
 .para,
-.small-para {
+.smallpara {
   color: hsl(0, 0%, 0%);
   font-weight: 800;
 }
 
-.small-para {
+.smallpara {
   font-size: 14px;
 }
 
@@ -16,10 +16,11 @@ body {
   font-size: 22px;
 }
 
-.confirm {
-  background: green;
+#confirm {
+  background-color: green;
   color: white;
   font-weight: bold;
+  font-size: 20px;
 } 
 
 #button {
